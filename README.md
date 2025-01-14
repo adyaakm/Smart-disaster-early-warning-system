@@ -1,4 +1,4 @@
-# Smart-disaster-early-warning-system
+# Smart-disaster-early-warning-system 
 
 Disaster management project  created by Chandigarh University [student]
 - Aadya Mishra
